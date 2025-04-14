@@ -1,2 +1,2 @@
-# T20-WORLDC UP-DASHBOARD
+# T20-WORLD CUP-DASHBOARD
 This project reflects my ability to translate complex data into visually engaging and user-friendly dashboards. It's a testament to my skills in Power BI, data analysis, and storytelling with data.
